@@ -1,5 +1,5 @@
 # 💫 About Me:
-👨‍🎓I have successfully completed the 4Geeks Academy Bootcamp<br><br>🔭 Currently, I am honing my skills in Python, ReactJS, and testing <br><br>🎯 In the long term, I'm focused on learning Artificial Intelligence<br><br>🗻 During my leisure time I relish cycling and running in the mountains<br><br>👨‍💻 All of my projects are available at (coming soon)<br><br>📫 Feel free to contact me via email at alejandroohipolito@gmail.com
+👨‍🎓I have successfully completed a FullStack Bootcamp at 4Geeks Academy and obtained an Expert Diploma in Data Architecture from UOC<br><br>🔭 Currently, I am honing my skills in Python, ReactJS, and testing <br><br>🎯 In the long term, I'm focused on learning Artificial Intelligence<br><br>🗻 During my leisure time I relish cycling and running in the mountains<br><br>👨‍💻 All of my projects are available at (coming soon)<br><br>📫 Feel free to contact me via email at alejandroohipolito@gmail.com
 
 
 ## 🌐 Socials:
